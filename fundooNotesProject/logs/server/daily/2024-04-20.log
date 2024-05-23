@@ -1,0 +1,1343 @@
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:11:56.070Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:11:56.121Z"}
+info: Server started at http://localhost:9000/api/ {"timestamp":"2024-04-20T03:13:35.473Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:13:35.494Z"}
+info: Server started at http://localhost:9000/api/ {"timestamp":"2024-04-20T03:13:50.393Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:13:50.416Z"}
+info: Server started at http://localhost:6000/api/ {"timestamp":"2024-04-20T03:28:53.733Z"}
+error: Could not connect to the database. {"reason":{"commonWireVersion":null,"compatibilityError":null,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Single"},"stack":"MongooseServerSelectionError: \n    at NativeConnection.Connection.openUri (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\connection.js:847:32)\n    at C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\index.js:351:10\n    at C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:32:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:31:10)\n    at Mongoose._promiseOrCallback (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\index.js:1149:10)\n    at Mongoose.connect (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\index.js:350:20)\n    at _callee$ (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\src\\config\\/database.js:12:20)\n    at tryCatch (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:45:16)\n    at Generator.<anonymous> (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:133:17)\n    at Generator.next (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:74:21)\n    at asyncGeneratorStep (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:9)\n    at C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:27:7\n    at new Promise (<anonymous>)\n    at apply (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:19:12)\n    at database (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\src\\config\\/database.js:4:15)\n    at Object.<anonymous> (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\src\\/index.js:30:9)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Module._compile (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at Object.newLoader [as .js] (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)\n    at Function.runMain (node:internal/modules/run_main:135:12)\n    at Object.<anonymous> (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-04-20T03:29:23.750Z"}
+info: Server started at http://localhost:6000/api/ {"timestamp":"2024-04-20T03:30:10.228Z"}
+error: Could not connect to the database. {"reason":{"commonWireVersion":null,"compatibilityError":null,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Single"},"stack":"MongooseServerSelectionError: \n    at NativeConnection.Connection.openUri (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\connection.js:847:32)\n    at C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\index.js:351:10\n    at C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:32:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:31:10)\n    at Mongoose._promiseOrCallback (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\index.js:1149:10)\n    at Mongoose.connect (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\index.js:350:20)\n    at _callee$ (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\src\\config\\/database.js:12:20)\n    at tryCatch (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:45:16)\n    at Generator.<anonymous> (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:133:17)\n    at Generator.next (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:74:21)\n    at asyncGeneratorStep (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:9)\n    at C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:27:7\n    at new Promise (<anonymous>)\n    at apply (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:19:12)\n    at database (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\src\\config\\/database.js:4:15)\n    at Object.<anonymous> (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\src\\/index.js:30:9)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Module._compile (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at Object.newLoader [as .js] (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)\n    at Function.runMain (node:internal/modules/run_main:135:12)\n    at Object.<anonymous> (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-04-20T03:30:40.237Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:31:49.465Z"}
+error: Could not connect to the database. {"reason":{"commonWireVersion":null,"compatibilityError":null,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Single"},"stack":"MongooseServerSelectionError: \n    at NativeConnection.Connection.openUri (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\connection.js:847:32)\n    at C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\index.js:351:10\n    at C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:32:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:31:10)\n    at Mongoose._promiseOrCallback (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\index.js:1149:10)\n    at Mongoose.connect (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\mongoose\\lib\\index.js:350:20)\n    at _callee$ (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\src\\config\\/database.js:12:20)\n    at tryCatch (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:45:16)\n    at Generator.<anonymous> (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:133:17)\n    at Generator.next (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:74:21)\n    at asyncGeneratorStep (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:9)\n    at C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:27:7\n    at new Promise (<anonymous>)\n    at apply (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:19:12)\n    at database (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\src\\config\\/database.js:4:15)\n    at Object.<anonymous> (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\src\\/index.js:30:9)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Module._compile (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at Object.newLoader [as .js] (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)\n    at Function.runMain (node:internal/modules/run_main:135:12)\n    at Object.<anonymous> (C:\\Users\\91831\\OneDrive\\Desktop\\fundooNotes\\fundooNotesProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:222:12)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-04-20T03:32:19.479Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:42:38.384Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:42:38.424Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:43:28.683Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:43:28.720Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:43:31.374Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:43:31.408Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:43:36.609Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:43:36.643Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:43:40.496Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:43:40.525Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:43:50.319Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:43:50.357Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:43:52.943Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:43:52.976Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:43:56.445Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:43:56.477Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:44:08.034Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:44:08.067Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:44:20.731Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:44:20.764Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:44:29.626Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:44:29.670Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:44:36.585Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:44:36.622Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:44:57.363Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:44:57.387Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:45:04.187Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:45:04.218Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:45:13.734Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:45:13.765Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:45:17.965Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:45:18.005Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:45:22.903Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:45:22.934Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:45:28.913Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:45:28.942Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/users/registration 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2024-04-20T03:49:21.970Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T03:50:23.140Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T03:50:23.182Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "prateek@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T03:50:38.398Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T03:50:38.410Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "prateek@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T03:51:53.656Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T03:51:53.660Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "john@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T03:53:39.866Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T03:53:39.870Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:02:51.280Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:02:51.322Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:03:41.725Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:03:41.761Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:03:54.518Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:03:54.546Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:04:03.278Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:04:03.306Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:07:20.142Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:07:20.175Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:07:23.354Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:07:23.382Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:07:42.858Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:07:42.891Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:07:50.652Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:07:50.680Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:08:03.831Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:08:03.855Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:08:08.921Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:08:08.949Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:08:13.446Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:08:13.471Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:08:27.502Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:08:27.535Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:08:30.911Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:08:30.958Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:10:07.501Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:10:07.521Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:10:14.214Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:10:14.247Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:10:28.545Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:10:28.578Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:10:33.957Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:10:33.989Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:10:38.437Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:10:38.462Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "john@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T04:10:42.950Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "john@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T04:10:56.901Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:11:14.584Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:11:14.619Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:11:22.597Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:11:22.625Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "john@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T04:11:25.520Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T04:11:25.528Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:11:39.435Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:11:39.467Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "john@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T04:11:42.005Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T04:11:42.013Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:11:51.939Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:11:51.968Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "john@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T04:11:55.182Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T04:11:55.191Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:12:16.612Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:12:16.634Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "john@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T04:12:19.540Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:17:27.812Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:17:27.844Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "john@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T04:17:31.280Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T04:17:31.288Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:17:40.089Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:17:40.114Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "john@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T04:17:42.491Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:18:54.330Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:18:54.365Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:18:58.299Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:18:58.319Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:24:07.782Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:24:07.817Z"}
+error: 
+    status - 500 
+    message - ValidationError: "email" must be a valid email 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T04:25:57.198Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is not allowed to be empty 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T04:27:18.062Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected double-quoted property name in JSON at position 93
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T04:27:26.738Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:38:20.331Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:38:20.359Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:42:10.932Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:42:10.952Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:42:40.795Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:42:40.828Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:44:05.910Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:44:05.939Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:50:56.717Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:50:56.733Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:53:29.022Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:53:29.040Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T04:53:32.527Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T04:53:32.544Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:00:10.650Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:00:10.673Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:00:12.770Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:00:12.787Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:00:32.150Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:00:32.165Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:01:22.811Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:01:22.828Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:01:40.632Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:01:40.650Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:02:10.129Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:02:10.146Z"}
+error: 
+    status - 500 
+    message - Error: regex must be a RegExp
+    at new module.exports (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at internals.Base.regex (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\joi\lib\types\string.js:526:17)
+    at newUserValidator (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\validators\/user.validator.js:8:28)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T05:02:28.487Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:02:58.680Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:02:58.696Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:03:03.673Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:03:03.689Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:03:06.033Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:03:06.050Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:03:10.808Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:03:10.823Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:03:16.614Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:03:16.629Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:03:21.385Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:03:21.401Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:03:27.671Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:03:27.690Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:03:31.663Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:03:31.682Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:03:39.506Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:03:39.525Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:03:48.996Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:03:49.012Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:03:57.808Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:03:57.829Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:04.071Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:04.088Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:07.236Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:07.255Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:09.288Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:09.307Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:12.398Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:12.413Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:20.220Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:20.240Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:23.316Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:23.334Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:28.112Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:28.130Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:29.947Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:29.966Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:32.908Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:32.926Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:34.825Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:34.841Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:37.665Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:37.683Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:42.154Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:42.171Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:46.523Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:46.540Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:04:49.946Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:04:49.964Z"}
+error: 
+    status - 500 
+    message - Error: regex must be a RegExp
+    at new module.exports (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at internals.Base.regex (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\joi\lib\types\string.js:526:17)
+    at newUserValidator (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\validators\/user.validator.js:8:28)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T05:04:52.773Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:06:00.509Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:06:00.526Z"}
+error: 
+    status - 500 
+    message - Error: regex must be a RegExp
+    at new module.exports (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at internals.Base.regex (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\joi\lib\types\string.js:526:17)
+    at newUserValidator (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\validators\/user.validator.js:8:28)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T05:06:06.520Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:07:13.219Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:07:13.236Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:07:19.253Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:07:19.269Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:07:24.610Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:07:24.627Z"}
+error: 
+    status - 500 
+    message - Error: regex must be a RegExp
+    at new module.exports (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at internals.Base.regex (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\joi\lib\types\string.js:526:17)
+    at newUserValidator (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\validators\/user.validator.js:8:28)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T05:07:29.553Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:09:08.807Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:09:10.384Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:09:10.403Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:09:15.634Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:09:15.652Z"}
+error: 
+    status - 500 
+    message - Error: regex must be a RegExp
+    at new module.exports (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at internals.Base.regex (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@hapi\joi\lib\types\string.js:526:17)
+    at newUserValidator (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\validators\/user.validator.js:9:28)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T05:09:18.668Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:09:28.805Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:09:28.821Z"}
+error: 
+    status - 500 
+    message - ValidationError: password must contain atleast 8 character with one special, number, upper & lowercase character 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T05:09:31.699Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:09:57.776Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:09:57.792Z"}
+error: 
+    status - 500 
+    message - ValidationError: password must contain atleast 8 character with one special, number, upper & lowercase character 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T05:10:00.729Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:13:48.567Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:13:48.586Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:13:54.203Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:13:54.220Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:18:41.926Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:18:41.942Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:18:53.234Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:18:53.254Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:00.951Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:00.969Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:04.286Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:04.305Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:06.559Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:06.578Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:09.984Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:10.001Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:19.207Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:19.221Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:27.137Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:27.152Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:31.737Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:31.754Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:42.055Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:42.072Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:45.480Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:45.495Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:50.331Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:50.348Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:19:57.625Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:19:57.641Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:20:32.406Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:20:32.427Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:20:35.009Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:20:35.025Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:20:39.056Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:20:39.078Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:20:40.883Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:20:40.901Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:20:43.463Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:20:43.483Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:20:45.806Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:20:45.825Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:20:50.697Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:20:50.713Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:20:54.433Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:20:54.450Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T05:51:55.101Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T05:51:55.121Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "ram@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T06:04:53.474Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T06:04:53.481Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:05:24.812Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:05:24.832Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:05:26.731Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:05:26.750Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "ram@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T06:05:29.282Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T06:05:29.289Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:05:59.611Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:05:59.629Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:06:02.801Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:06:02.819Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "ram@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T06:06:08.449Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T06:06:08.457Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "ram@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T06:07:43.640Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T06:07:43.642Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "ram@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T06:10:37.974Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T06:10:37.976Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:11:03.759Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:11:03.782Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "ram@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T06:11:05.499Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T06:11:05.504Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:11:17.699Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:11:17.720Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:11:28.874Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:11:28.891Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "ram@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T06:11:31.381Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T06:11:31.385Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:11:41.965Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:11:41.984Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:13:36.435Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:13:36.452Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundooNotes_db.users index: email_1 dup key: { email: "mukesh@email.com" } 
+      url - /api/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-20T06:22:03.087Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at ServerResponse.writeHead (node:_http_server:352:11)
+    at ServerResponse.writeHead (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:338:8)
+    at write_ (node:_http_outgoing:919:9)
+    at ServerResponse.end (node:_http_outgoing:1030:5)
+    at ServerResponse.send (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:233:10)
+    at ServerResponse.json (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\response.js:279:15)
+    at appErrorHandler (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:480:21) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T06:22:03.095Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:23:38.799Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:23:38.819Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:23:48.707Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:23:48.731Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:23:52.076Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:23:52.093Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:24:11.650Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:24:11.669Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:24:36.669Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:24:36.687Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:24:50.517Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:24:50.534Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:24:59.198Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:24:59.217Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:25:05.985Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:25:06.003Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:25:09.284Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:25:09.307Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:25:12.662Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:25:12.683Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:25:19.599Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:25:19.616Z"}
+error: 
+    status - 500 
+    message - Error: User Already Exist
+    at _callee$ (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\services\/user.service.js:7:11)
+    at tryCatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\services\/user.service.js:4:21)
+    at _callee$ (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\controllers\/user.controller.js:6:36)
+    at tryCatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\controllers\/user.controller.js:4:21)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at newUserValidator (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28) 
+    url - /api/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-20T06:25:25.263Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:26:05.841Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:26:05.872Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:26:22.173Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:26:22.195Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:27:26.236Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:27:26.256Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:27:32.962Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:27:32.981Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:28:10.148Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:28:10.168Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:28:16.772Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:28:16.790Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:28:21.109Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:28:21.129Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:28:25.607Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:28:25.644Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:28:29.589Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:28:29.613Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:28:37.996Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:28:38.013Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:28:53.044Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:28:53.066Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:28:59.468Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:28:59.491Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:29:05.271Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:29:05.289Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:29:12.452Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:29:12.470Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:29:15.310Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:29:15.328Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:29:19.761Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:29:19.785Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:33:03.271Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T06:33:09.977Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T06:33:09.993Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:32:24.321Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:32:24.350Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:34:03.171Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:34:03.206Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:34:33.791Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:34:33.829Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:35:09.467Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:35:09.500Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:35:16.723Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:35:16.763Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:36:42.014Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:36:42.041Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:36:52.426Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:36:52.456Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:36:55.886Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:36:55.923Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:37:43.072Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:37:43.120Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:37:47.799Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:37:47.828Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:40:08.957Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:40:08.992Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:40:13.053Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:40:13.094Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:41:18.304Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:41:18.340Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:41:22.929Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:41:22.966Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:42:51.586Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:42:51.621Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:45:49.818Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:45:49.848Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:46:39.927Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:46:39.969Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T07:48:06.953Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T07:48:06.990Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T08:11:57.136Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T08:11:57.154Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T08:11:58.788Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T08:11:58.805Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T08:15:31.602Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T08:15:31.620Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T08:16:22.242Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T08:16:22.258Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T13:43:27.470Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T13:43:27.498Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T13:54:23.804Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T13:54:23.842Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T13:54:52.625Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T13:54:52.668Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T13:55:01.941Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T13:55:01.971Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T13:55:48.682Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T13:55:48.713Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T13:56:10.268Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T13:56:10.305Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T13:59:19.175Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T13:59:19.209Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:00:04.211Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:00:04.253Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:00:07.893Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:00:07.920Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:00:23.808Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:00:23.844Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:01:47.077Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:01:47.105Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:01:50.716Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:01:50.741Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:01:53.530Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:01:53.562Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:02:05.645Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:02:05.675Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:04:37.258Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:04:37.288Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:04:40.619Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:04:40.662Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:04:46.024Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:04:46.053Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:04:52.446Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:04:52.475Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:04:55.848Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:04:55.888Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:05:23.294Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:05:23.327Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:05:30.723Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:05:30.769Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:05:37.209Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:05:37.240Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:06:21.468Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:06:21.505Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:06:26.541Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:06:26.568Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:06:29.491Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:06:29.525Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:06:37.628Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:06:37.668Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:07:26.509Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:07:26.546Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:07:31.431Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:07:31.474Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:07:46.120Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:07:46.158Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:08:47.984Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:08:48.018Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:09:02.382Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:09:02.419Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:09:12.138Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:09:12.166Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:09:53.062Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:09:53.093Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:10:36.800Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:10:36.828Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:10:42.896Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:10:42.926Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:10:51.730Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:10:51.758Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:11:22.851Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:11:22.894Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:11:26.677Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:11:26.712Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:11:43.399Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:11:43.434Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:12:19.557Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:12:19.581Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:17:12.738Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:17:12.770Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:17:27.768Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:17:27.795Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:17:32.039Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:17:32.075Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:17:49.287Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:17:49.325Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:19:15.052Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:19:15.091Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:19:41.705Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:19:41.742Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:20:07.989Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:20:08.026Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:21:25.800Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:21:25.840Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:21:59.914Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:21:59.956Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:22:40.418Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:22:40.445Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:23:05.698Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:23:05.732Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:24:08.938Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:24:08.982Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:25:44.560Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:25:44.584Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:25:47.158Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:25:47.188Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:26:19.215Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:26:19.249Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T14:26:56.789Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T14:26:56.820Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:49:20.528Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:49:20.573Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:49:24.114Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:49:24.143Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:50:02.519Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:50:02.554Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:50:17.531Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:50:17.564Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:50:31.483Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:50:31.518Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:51:32.332Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:51:32.361Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:51:53.989Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:51:54.029Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:51:57.411Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:51:57.438Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:52:10.479Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:52:10.502Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:53:09.904Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:53:09.942Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:53:39.879Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:53:39.911Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:53:45.834Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:53:45.869Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:53:48.998Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:53:49.030Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:54:32.652Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:54:32.699Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:54:51.733Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:54:51.780Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:56:11.185Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:56:11.215Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T16:57:03.640Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T16:57:03.667Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T17:19:10.685Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T17:19:10.706Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T17:21:14.815Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T17:21:14.863Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T17:21:38.762Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T17:21:38.796Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T17:21:45.359Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T17:21:45.389Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T17:22:01.678Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T17:22:01.717Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-20T17:22:46.937Z"}
+info: Connected to the database. {"timestamp":"2024-04-20T17:22:46.974Z"}

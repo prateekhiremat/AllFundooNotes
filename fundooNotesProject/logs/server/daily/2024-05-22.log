@@ -1,0 +1,110 @@
+[2024-05-22T03:34:26.550Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:34:26.583Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:34:26.690Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:34:26.766Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T03:34:26.766Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T03:34:55.595Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:34:55.608Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:34:55.668Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:36:12.764Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:36:12.782Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:36:12.878Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:36:13.384Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T03:36:13.385Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T03:36:48.869Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T03:36:49.106Z] [32minfo[39m: Disconnecting Producer...
+[2024-05-22T03:43:40.668Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T03:43:40.676Z] [32minfo[39m: Disconnecting Producer...
+[2024-05-22T03:46:13.624Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:46:13.658Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:46:13.732Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:46:13.759Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T03:46:13.760Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T03:46:29.589Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:46:29.622Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:46:29.732Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:46:29.766Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T03:46:29.768Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T03:46:53.545Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:46:53.565Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:46:53.632Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:46:53.661Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T03:46:53.662Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T03:46:57.925Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T03:46:57.983Z] [32minfo[39m: Disconnecting Producer...
+[2024-05-22T03:51:46.125Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:51:46.146Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:51:46.225Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:51:46.248Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T03:51:46.249Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T03:51:56.408Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:51:56.425Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:51:56.480Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:51:56.511Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T03:51:56.514Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T03:52:01.057Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T03:52:01.096Z] [32minfo[39m: Disconnecting Producer...
+[2024-05-22T03:54:08.646Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:54:08.678Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:54:08.775Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:54:08.811Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T03:54:08.813Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T03:54:30.408Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:54:30.424Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:54:30.493Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:54:30.518Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T03:54:30.520Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T03:54:36.129Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T03:54:36.166Z] [32minfo[39m: Disconnecting Producer...
+[2024-05-22T03:55:21.823Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T03:55:21.842Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T03:55:21.903Z] [32minfo[39m: Connected to the database.
+[2024-05-22T03:55:21.920Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T03:55:21.921Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T04:05:21.790Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T04:05:21.813Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T04:05:21.879Z] [32minfo[39m: Connected to the database.
+[2024-05-22T04:05:21.910Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T04:05:21.911Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T04:05:30.178Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T04:05:30.196Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T04:05:30.255Z] [32minfo[39m: Connected to the database.
+[2024-05-22T04:05:30.275Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T04:05:30.276Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T04:06:27.270Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T04:06:27.317Z] [32minfo[39m: Disconnecting Producer...
+[2024-05-22T04:07:18.751Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T04:07:18.768Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T04:07:18.830Z] [32minfo[39m: Connected to the database.
+[2024-05-22T04:07:18.849Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T04:07:18.850Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T04:07:22.641Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T04:07:22.672Z] [32minfo[39m: Disconnecting Producer...
+[2024-05-22T04:08:53.899Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T04:08:53.923Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T04:08:54.014Z] [32minfo[39m: Connected to the database.
+[2024-05-22T04:08:54.044Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T04:08:54.045Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T04:09:27.678Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T04:09:27.704Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T04:09:27.772Z] [32minfo[39m: Connected to the database.
+[2024-05-22T04:09:27.799Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T04:09:27.801Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T04:09:32.199Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T04:09:32.246Z] [32minfo[39m: Disconnecting Producer...
+[2024-05-22T04:10:26.983Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T04:10:27.007Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T04:10:27.090Z] [32minfo[39m: Connected to the database.
+[2024-05-22T04:10:27.112Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T04:10:27.114Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T04:11:26.159Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T04:11:26.179Z] [32minfo[39m: Disconnecting Producer...
+[2024-05-22T04:11:38.803Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T04:11:38.808Z] [32minfo[39m: Disconnecting Producer...
+[2024-05-22T04:15:32.525Z] [32minfo[39m: Admin Connected Successfully
+[2024-05-22T04:15:32.534Z] [32minfo[39m: Server started at http://localhost:3000/api/
+[2024-05-22T04:15:32.584Z] [32minfo[39m: Connected to the database.
+[2024-05-22T04:15:32.673Z] [32minfo[39m: Topics Created Successfully
+[2024-05-22T04:15:32.674Z] [32minfo[39m: Admin Disconnecting...
+[2024-05-22T04:16:13.359Z] [32minfo[39m: Producer Connected Successfully
+[2024-05-22T04:16:13.539Z] [32minfo[39m: Disconnecting Producer...

@@ -1,0 +1,817 @@
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:06:53.631Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:06:53.648Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:06:56.423Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:06:56.439Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:06:59.306Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:06:59.322Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:07:01.200Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:07:01.215Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:07:09.941Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:07:09.956Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:07:23.231Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:07:23.248Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:07:26.447Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:07:26.464Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:11:11.825Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:11:11.841Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:11:14.403Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:11:14.426Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:11:16.909Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:11:16.928Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:11:19.578Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:11:19.595Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:11:24.089Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:11:24.105Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:11:29.851Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:11:29.868Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:11:57.042Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:11:57.063Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:12:00.259Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:12:00.275Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:12:05.890Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:12:05.906Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:12:09.234Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:12:09.250Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:13:09.882Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:13:09.898Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:13:15.539Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:13:15.556Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:14:03.285Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:14:03.303Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:14:20.879Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:14:20.895Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:14:23.791Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:14:23.806Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:14:28.451Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:14:28.467Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:14:31.001Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:14:31.022Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:20:32.418Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:20:32.451Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:21:25.781Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:21:25.813Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:21:31.373Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:21:31.404Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:21:35.133Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:21:35.162Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:23:53.015Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:23:53.056Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:23:56.376Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:23:56.401Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:30:17.842Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:30:17.876Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:33:33.133Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:33:33.173Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:33:48.244Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:33:48.299Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:35:39.972Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:35:40.013Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:36:29.680Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:36:29.712Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:36:44.973Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:36:45.008Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:37:03.300Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:37:03.336Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:37:11.720Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:37:11.744Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:37:27.368Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:37:27.401Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:37:43.657Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:37:43.684Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:37:48.574Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:37:48.617Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:37:56.450Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:37:56.472Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:38:12.971Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:38:12.996Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:38:27.417Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:38:27.445Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:38:38.120Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:38:38.154Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:39:15.441Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:39:15.468Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:39:21.881Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:39:21.907Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:39:32.055Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:39:32.106Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:39:58.785Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:39:58.816Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:40:03.909Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:40:03.934Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:40:10.222Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:40:10.249Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:42:03.393Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:42:03.422Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:42:08.489Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:42:08.522Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:42:18.106Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:42:18.133Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:42:39.417Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:42:39.453Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:42:52.283Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:42:52.320Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:42:56.012Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:42:56.046Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:43:00.723Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:43:00.755Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:43:09.173Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:43:09.200Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:43:14.521Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:43:14.549Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:43:22.377Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:43:22.405Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:43:46.984Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:43:47.026Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:43:52.769Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:43:52.796Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:44:05.759Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:44:05.797Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:44:09.777Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:44:09.830Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:44:13.385Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:44:16.437Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:44:16.466Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:44:23.059Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:44:23.086Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:44:29.978Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:44:30.013Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:45:23.257Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:45:23.287Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:45:26.770Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:45:26.813Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:45:31.355Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:45:31.380Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:45:40.857Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:45:40.887Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:45:45.159Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:45:45.184Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:46:12.527Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:46:12.563Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:47:15.316Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:47:15.344Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:47:18.357Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:47:18.388Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:47:32.468Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:47:32.499Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:47:57.862Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:47:57.906Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:48:15.227Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:48:15.274Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:48:23.823Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:48:23.860Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:48:30.119Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:48:30.150Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:49:11.262Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:49:11.290Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:49:20.150Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:49:20.185Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:49:27.697Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:49:27.740Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:49:34.986Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:49:35.019Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:49:40.044Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:49:40.069Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:50:11.423Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:50:11.453Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:50:21.893Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:50:21.937Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:50:25.512Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:50:38.647Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:50:38.682Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:50:54.476Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:50:54.520Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:51:13.447Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:51:13.489Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:52:52.547Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:52:52.577Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:52:57.224Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:52:57.254Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:53:05.367Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:53:05.400Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:53:34.535Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:53:34.566Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:53:44.334Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:53:44.370Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:54:17.800Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:54:17.826Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:54:22.345Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:54:22.375Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:54:27.589Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:54:27.618Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:55:09.868Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:55:09.903Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:55:48.268Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:55:48.310Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:57:31.685Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:57:31.725Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:57:52.589Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:57:52.645Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:57:56.524Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:57:56.556Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T03:58:20.381Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T03:58:20.408Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:02:29.216Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:02:29.251Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:03:32.863Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:03:32.898Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:03:41.350Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:03:41.387Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:14:03.464Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:14:03.491Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:14:09.373Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:14:09.400Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:14:15.814Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:14:15.845Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:14:59.701Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:14:59.726Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:15:08.684Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:15:08.720Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:15:14.880Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:15:14.908Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:15:54.639Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:15:54.665Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:16:17.691Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:16:17.719Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:17:01.511Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:17:01.537Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:17:50.937Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:17:50.984Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:17:56.482Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:17:56.512Z"}
+error: 
+      status - 400
+      message - Please login 
+      url - /api/users/66233c405acbd93594c12ebf 
+      method - DELETE 
+      IP - ::1
+     {"timestamp":"2024-04-24T04:18:37.433Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:24:53.480Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:24:53.507Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:25:03.475Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:25:03.511Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:25:12.648Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:25:12.680Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:26:39.534Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:26:39.560Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:26:51.217Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:26:51.246Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:27:01.057Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:27:01.088Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:27:10.573Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:27:10.614Z"}
+error: 
+    status - 500 
+    message - ValidationError: password must contain atleast 8 character with one special, number, upper & lowercase character 
+    url - /api/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-24T04:29:29.245Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:31:54.221Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:31:54.252Z"}
+error: 
+      status - 400
+      message - Please login 
+      url - /api/users 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2024-04-24T04:32:03.220Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:34:18.244Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:34:18.281Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:35:14.335Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:35:14.363Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:35:19.049Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:35:19.081Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:35:24.893Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:35:24.922Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:35:32.146Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:35:32.181Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:36:10.075Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:36:10.110Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:37:11.825Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:37:11.862Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:37:16.989Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:37:17.024Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:37:41.156Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:37:41.200Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:37:49.780Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:37:49.820Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:38:37.258Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:38:37.289Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:43:24.754Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:43:24.790Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:45:32.443Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:45:32.473Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:45:54.779Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:45:54.811Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:46:08.765Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:46:08.806Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:46:15.106Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:46:15.152Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:46:20.653Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:46:20.683Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:47:20.465Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:47:20.499Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:47:27.484Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:47:27.513Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:47:33.187Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:47:33.213Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:47:42.243Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:47:42.268Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:47:48.594Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:47:48.635Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:47:59.479Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:47:59.508Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:48:19.302Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:48:19.331Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:48:28.702Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:48:28.729Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:48:35.174Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:48:35.198Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:48:49.570Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:48:49.611Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:49:17.344Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:49:17.373Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:49:23.851Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:49:23.881Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:49:43.530Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:49:43.564Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:49:54.605Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:49:54.630Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T04:50:02.786Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T04:50:02.815Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T05:21:45.451Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T05:21:45.479Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T05:23:16.404Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T05:23:16.419Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T05:23:47.396Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T05:23:47.413Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T05:23:50.495Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T05:23:50.511Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:00:30.578Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:00:30.594Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-24T14:03:24.985Z"}
+error: 
+    status - 500 
+    message - ValidationError: "discription" failed custom validation because Cannot read properties of undefined (reading 'presence') 
+    url - /api/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-24T14:03:41.329Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:04:50.658Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:04:50.676Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at noteValidator (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\validators\/note.validator.js:13:9)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-24T14:04:52.606Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:08:16.550Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:08:16.566Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:08:22.595Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:08:22.620Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:08:25.434Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:08:25.453Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:08:27.922Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:08:27.940Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at noteValidator (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\validators\/note.validator.js:13:9)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-24T14:08:37.831Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:08:54.401Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:08:54.417Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:09:46.708Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:09:46.723Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:10:00.920Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:10:00.937Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at noteValidator (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\validators\/note.validator.js:13:9)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-24T14:10:02.641Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:10:14.985Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:10:15.000Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:10:18.327Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:10:18.344Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:10:23.178Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:10:23.196Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/auth.middleware.js:23:32)
+    at tryCatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at noteValidator (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\src\validators\/note.validator.js:13:9)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\91831\OneDrive\Desktop\fundooNotes\fundooNotesProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-24T14:10:29.109Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:10:39.866Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:10:39.882Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:11:44.755Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:11:44.771Z"}
+error: 
+      status - 400
+      message - Please login 
+      url - /api/notes 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-24T14:12:25.751Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:17:31.754Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:17:31.769Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:24:54.054Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:24:54.069Z"}
+error: 
+      status - 400
+      message - Please login 
+      url - /api/notes 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-04-24T14:26:39.469Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:27:14.153Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:27:14.170Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:28:21.259Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:28:21.276Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:28:50.198Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:28:50.215Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:29:00.065Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:29:00.081Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:29:03.884Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:29:03.900Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:37:09.392Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:37:09.410Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:37:47.287Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:37:47.304Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:38:07.752Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:38:07.768Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:38:15.914Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:38:15.932Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:38:17.944Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:38:17.963Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:38:28.628Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:38:28.643Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:38:32.073Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:38:32.090Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:38:36.701Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:38:36.718Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:38:39.377Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:38:39.393Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:38:48.903Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:38:48.921Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:39:06.446Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:39:06.473Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:39:39.200Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:39:39.216Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:39:47.414Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:39:47.440Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:39:49.813Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:39:49.829Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:39:55.126Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:39:55.142Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:40:09.910Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:40:09.928Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:40:13.106Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:40:13.123Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:46:43.880Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:46:43.901Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:47:36.698Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:47:36.715Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:47:48.200Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:47:48.217Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:48:54.194Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:48:54.211Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:48:56.795Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:48:56.812Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:49:05.137Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:49:05.152Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:49:12.425Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:49:12.442Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:49:14.647Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:49:14.667Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:49:18.966Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:49:18.982Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T14:49:22.092Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T14:49:22.109Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:25:45.829Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:25:45.862Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:26:46.430Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:26:46.457Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:27:18.404Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:27:18.454Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:27:30.795Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:27:30.832Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:27:34.577Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:27:34.606Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:27:47.487Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:27:47.518Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:27:52.444Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:27:52.490Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:29:00.629Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:29:00.655Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:29:04.024Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:29:04.060Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:29:08.123Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:29:08.149Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:30:01.305Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:30:01.339Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:30:30.597Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:30:30.627Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:30:48.929Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:30:48.971Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:30:52.904Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:30:52.961Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:30:56.011Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:30:56.054Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:31:05.017Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:31:05.047Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:31:08.681Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:31:08.712Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:31:30.134Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:31:30.172Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:31:35.448Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:31:35.480Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:31:39.760Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:31:39.800Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:31:57.774Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:31:57.815Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:32:03.708Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:32:03.750Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:32:07.730Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:32:07.778Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:32:12.494Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:32:12.529Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:32:19.167Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:32:19.201Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:32:22.597Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:32:22.633Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:32:28.358Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:32:28.398Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:32:32.164Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:32:32.200Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:32:53.944Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:32:53.997Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:33:05.343Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:33:05.383Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:33:12.606Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:33:12.639Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:33:24.421Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:33:24.459Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:33:38.077Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:33:38.116Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:34:00.468Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:34:00.503Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:34:05.373Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:34:05.413Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:34:11.946Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:34:11.979Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:34:31.372Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:34:31.410Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:35:14.787Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:35:14.828Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:35:20.317Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:35:20.344Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:35:28.639Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:35:28.668Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:35:32.607Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:35:32.651Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:35:44.647Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:35:44.681Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:35:54.000Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:35:54.038Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T16:35:59.992Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T16:36:00.031Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T17:00:17.646Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T17:00:17.669Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T17:01:13.669Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T17:01:13.715Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T17:01:25.051Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T17:01:25.079Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T17:01:28.848Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T17:01:28.873Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T17:03:43.218Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T17:03:43.243Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T17:03:49.080Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T17:03:49.102Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T17:04:22.840Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T17:04:22.871Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T17:04:36.814Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T17:04:36.842Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T17:14:08.137Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T17:14:08.171Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-24T17:14:43.803Z"}
+info: Connected to the database. {"timestamp":"2024-04-24T17:14:43.839Z"}
