@@ -17,7 +17,7 @@ import logger, { logStream } from './config/logger';
 import morgan from 'morgan';
 import swaggerUi from 'swagger-ui-express';
 import swaggerDoc from './swagger/swagger_3.0.1.json';
-import { init } from './utils/kafka/admin';
+// import { init } from './utils/kafka/admin';
 
 const app = express();
 const host = process.env.APP_HOST;
@@ -30,7 +30,7 @@ app.use(express.json());
 app.use(morgan('combined', { stream: logStream }));
 
 database();
-init();
+// init();
 
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDoc));
 

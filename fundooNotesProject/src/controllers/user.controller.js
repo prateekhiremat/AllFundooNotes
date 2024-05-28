@@ -5,18 +5,18 @@ import { consumerInit } from '../utils/kafka/consumer';
 
 export const userRegister = async (req, res) => {
   try {
-    await init(req.body)
-    await consumerInit().then(data => {
-      console.log('Received data:', data);
-    })
-    .catch(error => {
-      console.error('Error:', error);
-    });
-    // await UserService.userRegister(req.body);
+    // await init(req.body)
+    // await consumerInit().then(data => {
+    //   console.log('Received data:', data);
+    // })
+    // .catch(error => {
+    //   console.error('Error:', error);
+    // });
+    await UserService.userRegister(req.body);
     res.status(HttpStatus.CREATED).json({
       success: true,
       message: 'User created successfully',
-      // data: data
+      data: data
     });
   } catch (error) {
     res.status(HttpStatus.BAD_REQUEST).json({
