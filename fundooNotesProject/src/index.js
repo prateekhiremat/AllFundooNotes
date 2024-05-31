@@ -23,6 +23,7 @@ const app = express();
 const host = process.env.APP_HOST;
 const port = process.env.APP_PORT;
 
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDoc));
 app.use(cors());
 app.use(helmet());
 app.use(express.urlencoded({ extended: true }));
@@ -31,8 +32,6 @@ app.use(morgan('combined', { stream: logStream }));
 
 database();
 // init();
-
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDoc));
 
 app.use(`/api`, routes());
 app.use(appErrorHandler);
