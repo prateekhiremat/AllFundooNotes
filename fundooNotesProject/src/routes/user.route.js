@@ -6,7 +6,7 @@ import { userAuthForResetPassword } from '../middlewares/auth.middleware';
 const router = express.Router();
 
 /* route to user registration */
-router.post('/register', validator.userValidatorRegister, userController.userRegister);
+router.post('/', validator.userValidatorRegister, userController.userRegister);
 
 router.post('/login', validator.loginRegister, userController.userLogin);
 
