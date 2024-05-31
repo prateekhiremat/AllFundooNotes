@@ -1,12 +1,12 @@
 {
     "openapi": "3.0.1",
     "info": {
-      "title": "Google Keep",
+      "title": "Fundoo Notes(Google Keep )",
       "description": "This is the replica of google keep.User can register and login, user can do request for forgot password and he can reset password using that shared credentionals. User can login and perform note CRUD."
     },
     "servers": [
       {
-        "url": "http://localhost:3000/api/"
+        "url": "http://172.31.45.99:3000/api/"
       }
     ],
     "tags": [
